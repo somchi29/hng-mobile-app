@@ -61,4 +61,4 @@ To get started with the app locally:
 
 1. Clone the repository:
    ```bash or your terminal
-   git clone https://github.com/kelly29dev/hng-mobile-app.git
+   git clone https://github.com/somchi29/hng-mobile-app.git
