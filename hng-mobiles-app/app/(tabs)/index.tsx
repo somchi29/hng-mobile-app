@@ -11,8 +11,8 @@ const App = () => {
 
       
       <Button
-        title="HNG Hire Pages"
-        onPress={() => Linking.openURL("https://hng.com/hire")}
+        title="HNG Hire"
+        onPress={() => Linking.openURL("https://hng.com")}
       />
     </View>
   );
